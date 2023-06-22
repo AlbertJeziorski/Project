@@ -4,6 +4,6 @@
 public class tekst1 {
 
     public static void main(String[] args) {
-        System.out.println("are u okay? ");
+        System.out.println("yes ");
     }
 }
